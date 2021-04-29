@@ -43,7 +43,7 @@ def solve_coeff():
 
 
 def regression():
-    # Generate the regression equation
+    # Generate and print the regression equation
     a = solve_coeff()
 
     lq_fit = f"y = {a[0]} + {a[1]}*x"
