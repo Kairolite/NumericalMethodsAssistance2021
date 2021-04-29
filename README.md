@@ -1,6 +1,6 @@
 # NumericalMethodsAssistance2021
 
 Organized by:
-@Kairolite
-@JosiahEnrico
-@rizalghod
+- [Chris](https://github.com/Kairolite)
+- [Josiah](https://github.com/JosiahEnrico)
+- [Rizal](https://github.com/rizalghod)
