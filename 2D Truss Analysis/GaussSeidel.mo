@@ -16,7 +16,6 @@ Integer iter = 1000;    // Number of iterations
 Real a [size(A,1),size(A,1)]; // Square matrix (m x m)
 Real b [size(A,1)];           // Column vector (m x 1)
 
-
 Real prev_x;  // Value of x from previous iteration
 Real row_sol; // Part of equation numerator when solving for X[i]
 
