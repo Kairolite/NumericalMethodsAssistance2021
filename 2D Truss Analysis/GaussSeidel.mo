@@ -3,9 +3,9 @@ function GaussSeidel
 // Gauss-Seidel Algorithm
 // Christopher S.E. May 2021
 
-input Real [:,:] A;             // An augmented matrix of m*n
-output Real [size(A,1)] X;      // Output solution vector
-// output Real [size(A,1)] error;  // Approximate error
+input Real [:,:] A;                 // An augmented matrix of m*n
+output Real [size(A,1)] X;          // Output solution vector
+// output Real [size(A,1)] error;   // Approximate error
 
 protected
 Integer m = size(A,1);  // Number of rows in augmented matrix
